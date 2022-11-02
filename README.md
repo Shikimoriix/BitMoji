@@ -67,26 +67,22 @@
 
 ![🙃](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%F0%9F%99%83.png)
 
-![🙄]()
+![🙄](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%F0%9F%99%84.png)
 
-![🙏]()
+![🙏](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%F0%9F%99%8F%F0%9F%8F%BB.png)
 
-![🤐]()
+![🤐](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%F0%9F%A4%90.png)
 
-![🤔]()
+![🤔](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%F0%9F%A4%94.png)
 
-![🤘]()
+![🤘](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%F0%9F%A4%98%F0%9F%8F%BB.png)
 
-![🤡]()
+![🤡](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%F0%9F%A4%A1.png)
 
-![🤣]()
+![🤣](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%F0%9F%A4%A3.png)
 
-![🥲]()
+![🥲](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%F0%9F%A5%B2.png)
 
-![🥺]()
-
-![🫅]()
-
-![🫰]()
+![🥺](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%F0%9F%A5%BA.png)
 
 </details> 
