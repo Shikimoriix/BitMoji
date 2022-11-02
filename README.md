@@ -1,2 +1,2 @@
 # BitMoji
-Snapchat BitMoji
+> Snapchat BitMoji
