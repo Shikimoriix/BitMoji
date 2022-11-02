@@ -11,6 +11,8 @@
 
 > Me And 
 
+![🤝](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%F0%9F%A4%9D.png)
+
 ![☺️](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%E2%98%BA%EF%B8%8F.png)
 
 ![❓](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%E2%9D%93.png)
