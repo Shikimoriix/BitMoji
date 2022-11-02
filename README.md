@@ -9,8 +9,6 @@
 <details>
 <summary><h3>BitMoji</h3></summary>
 
-> Me And 
-
 ![🤝](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%F0%9F%A4%9D.png)
 
 ![☺️](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%E2%98%BA%EF%B8%8F.png)
@@ -88,3 +86,17 @@
 ![🥺](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%F0%9F%A5%BA.png)
 
 </details> 
+<details>
+<summary><h3>Add Me</h3></summary>
+
+![Snappy](https://github.com/AL3X-Github/Resources/blob/main/Photos/Snapchat!.png)
+
+> [@ikx7.a](https://www.snapchat.com/add/ikx7.a)
+
+</details>
+<details>
+<summary><h3>Thanks To</h3></summary>
+
+> [@aayiman_khan](https://www.snapchat.com/add/aayiman_khan)
+
+</details>
