@@ -9,6 +9,8 @@
 <details>
 <summary><h3>BitMoji</h3></summary>
 
+> Download Bitmoji [Zip File](https://github.com/AL3X-Github/Resources/blob/main/Zip%20files/Emojis.zip) By [@ikx7.a](https://www.snapchat.com/add/ikx7.a)
+
 ![🤝](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%F0%9F%A4%9D.png)
 
 ![☺️](https://github.com/AL3X-Github/Resources/blob/main/BitMoji/%E2%98%BA%EF%B8%8F.png)
