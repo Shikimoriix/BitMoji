@@ -105,7 +105,7 @@
 <details>
 <summary><h3>Stickers</h3></summary>
 
-> Add Telegram Stickers
+> Add Telegram Sticker.
 
 - [BitMoji 1](https://t.me/addstickers/Maxim83XStickers)
 
