@@ -102,3 +102,16 @@
 > [@aayiman_khan](https://www.snapchat.com/add/aayiman_khan)
 
 </details>
+<details>
+<summary><h3>Stickers</h3></summary>
+
+> Add Telegram Stickers
+
+- [BitMoji 1](https://t.me/addstickers/Maxim83XStickers)
+
+- [BitMoji 2](https://t.me/addstickers/Maxim84XStickers)
+
+- [BitMoji 3](https://t.me/addstickers/Maxim99XStickers)
+
+</details>
+
