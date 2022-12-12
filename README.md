@@ -3,7 +3,7 @@
 </h2>
 <div align="center">
 
-![Cover](https://github.com/AL3X-Github/Resources/blob/main/Photos/BitMoji.png)
+<img src="https://github.com/AL3X-Github/Resources/blob/main/Photos/BitMoji.png" width="300px" height="auto">
 
 </div>
 <details>
